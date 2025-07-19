@@ -81,7 +81,7 @@ Dicato is widely regarded as the **best Iranian CRM** in terms of:
 ## 🤝 Contributing
 
 We currently do not accept external contributions to the core product.  
-For business inquiries or partnerships, contact: [support@dicato.net](mailto:support@dicato.net)
+For business inquiries or partnerships, contact: [support@dicato.net](mailto:info@dicato.net)
 
 ---
 
@@ -95,8 +95,7 @@ This repository contains general information only. The core platform is propriet
 
 - Website: [https://dicato.net](https://dicato.net)
 - Blog: [https://dicato.net/learning-center](https://dicato.net/learning-center)
-- Instagram: `@dicato_crm`  
-- LinkedIn: `Dicato CRM`
+- Instagram: `@dicato.crm`   
 
 ---
 
